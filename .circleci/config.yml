@@ -37,7 +37,7 @@ jobs:
 
       - run:
           name: Run tests
-          command: cd front && npm run test
+          command: cd frontend && npm run test
 
 workflows:
   version: 2
