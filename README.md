@@ -29,7 +29,7 @@ To Visit App:
 ## Reflection
 
  This project is in the setup stages.
- * Set-up circleci to take care of continous integration when pull requests are made.]
+ * Set-up circleci to take care of continous integration when pull requests are made.
  * Set up a file structure on my local repo. 
  * Set up test folders for all atoms, organisms, molecules and environments, and install react-test-renderer. 
 
