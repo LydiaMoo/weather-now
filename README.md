@@ -24,7 +24,7 @@ To Start Server:
 
 To Visit App:
 
-`localhost:3000/ideas`  
+`localhost:3000`  
 
 ## Reflection
 
@@ -32,4 +32,4 @@ To Visit App:
  * Set-up circleci to take care of continous integration when pull requests are made.]
  * Set up a file structure on my local repo. 
  * Set up test folders for all atoms, organisms, molecules and environments, and install react-test-renderer. 
- * 
+
